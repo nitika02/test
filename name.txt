@@ -1,1 +1,3 @@
 var name = "Nitika Garg";
+var message = "My name is ";
+console.log(message, name)
